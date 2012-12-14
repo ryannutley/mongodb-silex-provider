@@ -1,0 +1,22 @@
+{
+    "name": "getme/MongoDBSilexProvider",
+    "description": "MongoDB provider for Silex",
+    "keywords": ["silex", "mongo", "mongodb"],
+    "homepage": "https://github.com/getme/MongoDBSilexProvider",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleg Khussainov",
+            "email": "oleg@hireoleg.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+	"silex/silex": "1.0.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Sfk\\Silex\Provider\\MongoDBSilexProvider": "src/"
+        }
+    }
+}
