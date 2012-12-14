@@ -1,8 +1,8 @@
 {
-    "name": "getme/MongoDBSilexProvider",
+    "name": "getme/mongodb-silex-provider",
     "description": "MongoDB provider for Silex",
     "keywords": ["silex", "mongo", "mongodb"],
-    "homepage": "https://github.com/getme/MongoDBSilexProvider",
+    "homepage": "https://github.com/getme/mongodb-silex-provider",
     "license": "MIT",
     "authors": [
         {
